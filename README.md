@@ -7,7 +7,7 @@ Veja Meu Perfil Samira Cassia
 Sou estudante de **Logística** na **FATEC São José dos Campos**, atualmente no **1º semestre**. Mesmo no início da graduação, já tive contato com diversas áreas e estou sempre em busca de aprendizado.
 
 Tenho experiência em:
-- **OMUC (Organização, Métodos e Utilização da Capacidade)**
+- **OMUC (Operadora em Máquinas de Usinagem Convecional)**
 - **Marketing**
 - **Design**
 
