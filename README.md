@@ -1,8 +1,7 @@
 # Veja-Meu-Perfil-Samira-Cassia
 Veja Meu Perfil Samira Cassia
-<img src="https://raw.githubusercontent.com/samira312/samira312/main/banner.png" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/samira312/samira312/main/banner.pnghttps://github.com/samira312/Veja-Meu-Perfil-Samira-Cassia/blob/main/WhatsApp%20Image%202025-04-08%20at%2012.09.39.jpeg" alt="banner" width="100%"/>
 
-# Olá, seja bem-vindo(a) ao meu perfil!
 
 Sou estudante de **Logística** na **FATEC São José dos Campos**, atualmente no **1º semestre**. Mesmo no início da graduação, já tive contato com diversas áreas e estou sempre em busca de aprendizado.
 
